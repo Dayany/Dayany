@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dayan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 </div>  
+### <div align="center">I'm Dayan, a full-time full-stack freelance developer 👨‍💻 worked full-time as for 4 years, now working remotely since 2020 </div>  
   
 
 - 🔭 I’m currently working on [My New To DO App](https://github.com/Dayany/mytodoapp)  
