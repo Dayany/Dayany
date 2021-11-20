@@ -4,10 +4,12 @@
   
 
 ### <div align="center">I'm Dayan, a full-time full-stack freelance developer 👨‍💻 worked full-time for 4 years, now working remotely since 2020 </div>  
-  
+ 
+- ⚡ Completed: [Calendar App](https://github.com/Dayany/my-calendar-app)
+
+- ⚡ Completed: [Forum App](https://github.com/Dayany/preg-res)
 
 - 🔭 I’m currently working on [My New To DO App](https://github.com/Dayany/mytodoapp)  
-  
 
 - 🌱 I’m currently learning to better my craft. Always looking to improve my code, make it cleaner, and simpler  
   
