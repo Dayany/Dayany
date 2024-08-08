@@ -30,7 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png" alt="MaterialUI" height="50" />  
+<img style="margin: 10px" src="[https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*MNClr0a9fkvkJb9oieqXjA.png)" alt="MaterialUI" height="50" />  
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F8908513%3Fs%3D280%26v%3D4&f=1&nofb=1" alt="Cypress" height="50" />
 </div>
 
