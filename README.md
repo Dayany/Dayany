@@ -3,15 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Dayan, a full-time full-stack freelance developer 👨‍💻 worked full-time for 8 years, now working remotely since 2020 </div>  
+### <div align="center">I'm Dayan, a full-time full-stack developer 👨‍💻 with 9 years of experience, now working remotely since 2020 </div>  
  
+- 🔭 I’m currently working on [My New To DO App](https://github.com/Dayany/car2car) (Using NextJs, Typescript, TailwindCSS, EC2, S3, Mongoose/Mongodb)
+- 
 - ⚡ Completed: [Calendar App](https://github.com/Dayany/my-calendar-app)
 
 - ⚡ Completed: [Forum App](https://github.com/Dayany/preg-res)
 
-- 🔭 I’m currently working on [My New To DO App](https://github.com/Dayany/mytodoapp)  
-
-- 🌱 I’m currently learning to better my craft. Always looking to improve my code, make it cleaner, and simpler  
+- 🌱 I’m currently learning to better my craft. I am always looking to improve my code, make it cleaner, more scalable, more efficient, and simpler  
   
 
 <br/>  
@@ -32,6 +32,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://jquery-plugins.net/image/plugin/mui-react-component-library.png" alt="MaterialUI" height="50" />  
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F8908513%3Fs%3D280%26v%3D4&f=1&nofb=1" alt="Cypress" height="50" />
+<img style="margin: 10px" src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="Cypress" height="50" />
+  
 </div>
 
 </td><td valign="top" width="33%">
