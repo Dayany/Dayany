@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Dayan, a full-time full-stack developer 👨‍💻 with 9 years of experience, now working remotely since 2020 </div>  
  
-- 🔭 I’m currently working on [My car part sales website](https://github.com/Dayany/c2c) (Using NextJs, Typescript, TailwindCSS, EC2, S3, Mongoose/Mongodb)
+- 🔭 I’m currently working on [My car part sales website](https://github.com/Dayany/c2c) (Using NextJs, Typescript, TailwindCSS, EC2, S3, Mongoose/Mongodb, GitHub Actions)
   
 - ⚡ Completed: [Calendar App](https://github.com/Dayany/my-calendar-app)
 
