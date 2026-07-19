@@ -1,9 +1,6 @@
 <div align="center">
-<img src="https://github.com/Dayany/Dayany/blob/main/header.png?raw=true" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Dayan, a full-time full-stack developer 👨‍💻 with 9 years of experience, now working remotely since 2020 </div>  
+### <div align="center">I'm a full-time full-stack developer 👨‍💻 with 9 years of experience, now working remotely since 2020 </div>  
  
 - 🔭 I’m currently working on [My car part sales website](https://github.com/Dayany/c2c) (Using NextJs, Typescript, TailwindCSS, EC2, S3, Mongoose/Mongodb, GitHub Actions)
   
